@@ -7,7 +7,7 @@ const config = {
   page: null,
   platform: "Web",
   useBeacon: true,
-  startOnReady: true,
+  startOnReady: false,
   trackVisits: true,
   cookies: true,
   cookieDomain: null,
